@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    margin-left: 121px;
+    margin-top: 21px;
+}
+
+.sync {
+    width: 112px;
+    height: 66px;
+}
+
+.logos {
+    display: flex;
+    flex-direction: row;
+    width: 509px;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 22px;
+    height: 21px;
+}
+
+.logo-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 115%;
+
+}
+
+.logo-text {
+    margin: 0;
+}
+
+.logos-divs {
+    display: flex;
+    
+    
+}
+
+.sync-div {
+    margin-bottom: 96px;
+}
+
+.logo1 {
+    margin-right: 8px;
+}
+
+.logo2 {
+    margin-right: 10px;
+}
+
+.logo3 {
+    margin-right: 13px;
+}
+
+.title {
+
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 101.38%;
+    
+}
+
+.title {
+    margin-top: 29px;
+    width: 628px;
+
+}
+
+.title-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.title-text {
+    width: 414px;
+}
+
+.first-picture {
+    display: flex;
+}
+
+.adam-image {
+    margin-left: 140px;
+    width: 304px;
+    height: 356px;
+}
