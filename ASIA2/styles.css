@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+@media (max-width: 991px) {
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+
+.container {
+    width: 100%;
+    padding-top: 36px;
+    padding-left: 35px;
+}
+
+.row {
+    margin-top: 45px;
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.row-1, .row-2, .row-3 {
+    display: flex;
+    
+
+}
+
+
+
+.sync-image {
+    width: 52.19px;
+    height: 30.75px;    
+}
+
+.row-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 115%;
+    margin-left: 4px;
+
+}
+
+.row-image {
+    width: 10px;
+    height: 9px;
+}
+
+.section-1-title{
+    width: 100%;
+    margin-top: 8px;
+}
+
+.section-1-title{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 37px;
+    line-height: 101.38%;
+}
+
+.section-1-text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 150%;
+}
+
+.section-1-text {
+    margin-top: 10px;
+    width: 78%;
+
+}
+
+.section-1-image{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.section-1-image1{
+    width: 141.66px;
+    height: 165.89px;
+
+    position: relative;
+    bottom: 10px;
+    
+}
+
+.blue {
+    background: #1E4681;
+    border-radius: 2.32986px;
+    width: 70%;
+    height: 93.19px;
+    margin-top: 48px;
+}
+
+.blue-text-1{
+     font-family: Roboto Slab;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 11px;
+     line-height: 130%;
+     color: #FFFFFF;
+
+     padding-top: 9px;
+     padding-left: 12px;
+}   
+
+.blue-text-2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 130%;
+    text-align: right;
+    color: #FFFFFF;
+
+    padding-right: 7px;
+    padding-bottom: 4px;
+}
+
+}
+
